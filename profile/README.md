@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://bitclick.solutions/assets/logo_big.webp" alt="Bitclick .solutions" width="420">
+<img src="https://bitclick.solutions/assets/og-bitclick.webp" alt="Bitclick .solutions" width="420">
 
 **Ingeniería de software, automatización profunda e IA aplicada**
 
